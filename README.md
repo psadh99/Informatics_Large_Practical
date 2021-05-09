@@ -1,1 +1,1 @@
-# ilp_cw
+Informatics Large Practical - Drone Control Project
