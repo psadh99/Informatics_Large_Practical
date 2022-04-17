@@ -1,3 +1,5 @@
 # Informatics Large Practical
 Drone Control Project
-(please check the master branch for coursework 2)
+Programmed the drone to collect air quality readings from sensors distributed around an urban area. 
+Tech stack: Java, MapBox SDK, Maven
+(Please check the master branch for coursework 2!)
